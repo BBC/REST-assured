@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform              = Gem::Platform::RUBY
   s.authors               = ['Artem Avetisyan']
   s.email                 = ['artemave@gmail.com']
-  s.homepage              = "https://github.com/artemave/rest-assured"
+  s.homepage              = "https://github.com/bbc/rest-assured"
   s.summary               = %q{Real stubs and spies for HTTP(S) services}
   #s.description          = %q{TODO: Write a gem description}
 
